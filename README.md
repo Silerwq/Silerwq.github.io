@@ -3,7 +3,7 @@ Jeff Matthew S. Dy
 best fight fr
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://www.youtube.com/watch?v=A5PZCaUup4I{{ include.id }}" 
+    src="https://www.youtube.com/embed/A5PZCaUup4I 
     frameborder="0" allowfullscreen></iframe>
 </div>
 <style>
